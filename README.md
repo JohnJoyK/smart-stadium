@@ -45,7 +45,7 @@ AWS REQUIREMENTS
 
 STEP 1 — CLONE THE REPOSITORY
 ------------------------------
-  git clone https://github.com/YOUR_USERNAME/smart-stadium.git
+  git clone https://github.com/JohnJoyK/smart-stadium.git
   cd smart-stadium
 
 
