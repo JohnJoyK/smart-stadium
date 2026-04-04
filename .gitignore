@@ -1,0 +1,9 @@
+venv/
+node_modules/
+__pycache__/
+*.pyc
+.env
+fog_node/certs/
+dashboard/dist/
+*.key
+*.pem
