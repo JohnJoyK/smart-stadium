@@ -106,9 +106,7 @@ Create a .env file in the dashboard/ folder:
   VITE_API_URL=https://YOUR_API_GATEWAY_URL/Prod
 
 
-================================================================
-RUNNING THE SYSTEM
-================================================================
+## RUNNING THE SYSTEM
 
 Open 5 terminals with the python environment
 
