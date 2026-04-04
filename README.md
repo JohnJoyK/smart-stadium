@@ -1,7 +1,5 @@
-================================================================
-SMART STADIUM EXPERIENCE ENHANCEMENT SYSTEM
-A Fog Computing Project for Large Venues
-================================================================
+## SMART STADIUM EXPERIENCE ENHANCEMENT SYSTEM
+# A Fog Computing Project for Large Venues
 
 OVERVIEW
 --------
@@ -18,9 +16,7 @@ Data flow:
   → DynamoDB → API Gateway → React Frontend
 
 
-================================================================
 PREREQUISITES
-================================================================
 
 SOFTWARE REQUIREMENTS
 ---------------------
@@ -45,9 +41,7 @@ AWS REQUIREMENTS
 
 
 
-================================================================
-INSTALLATION
-================================================================
+## INSTALLATION
 
 STEP 1 — CLONE THE REPOSITORY
 ------------------------------
