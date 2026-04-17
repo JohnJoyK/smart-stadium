@@ -37,7 +37,8 @@ function App() {
     <div className="app">
       <header className="header">
         <h1>Smart Stadium Dashboard</h1>
-        {lastUpdated && <span className="last-updated">Last updated: {lastUpdated}</span>}
+        <br />
+        {lastUpdated && <span className="last-updated">    Last updated: {lastUpdated}</span>}
       </header>
 
       <AlertsBanner alerts={alerts} />
